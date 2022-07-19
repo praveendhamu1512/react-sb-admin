@@ -1,0 +1,146 @@
+.collapse .hori {
+
+    flex-direction:row !important ;
+
+}
+
+.nav-item .form-control {
+
+    width: 20rem;
+} 
+
+.nav-item .profile-dropdown {
+
+    color: #8C8EA6 !important;
+}
+.bg-white {
+
+    height: 5rem;
+}
+.userPic {
+
+    width: 2rem;
+}
+
+.fontawesome {
+
+    color: #B7B9CC;
+}
+.alert-msg {
+
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.35rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: #fff;
+    background-color: #e74a3b;
+}
+
+.alert-msg-align {
+
+    position: absolute;
+    transform: scale(.7);
+    transform-origin: top right;
+    right: 14rem;
+    margin-top: -0.25rem;
+}
+
+.alert-env-align {
+
+    position: absolute;
+    transform: scale(.7);
+    transform-origin: top right;
+    right: 12rem;
+    margin-top: -0.25rem;
+}
+
+.fontawesome-search {
+
+    color: white;
+}
+
+.dashboard {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.das-design {
+    
+    font-size: 1.75rem;
+    color: #5a5c69!important;
+}
+
+.col-9 h6 {
+
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #4e73df;
+}
+
+.col-3 h6 {
+
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+
+
+.col-3 .card {
+
+    height: 6rem;
+}
+
+.fontdas {
+
+    font-size: 2rem;
+    color: #DDDFEB;
+}
+
+.card-design-blue {
+
+    border-left: 0.25rem solid #4e73df!important;
+    border-left-width: 0.25rem !important;
+    border-left-style: solid !important;
+    border-left-color: rgb(78, 115, 223) !important;
+}
+
+.card-design-green {
+
+    border-left: 0.25rem solid #1cc88a!important;
+    border-left-width: 0.25rem !important;
+    border-left-style: solid !important;
+    border-left-color: rgb(28, 200, 138) !important;
+
+}
+
+.card-design-orange {
+
+
+    border-left: 0.25rem solid #f6c23e!important;
+    border-left-width: 0.25rem !important;
+    border-left-style: solid !important;
+    border-left-color: rgb(246, 194, 62) !important;
+}
+
+.annual-salary {
+
+    color: #B0CB8A !important;
+}
+
+.pending-req {
+
+    color: #f6c23e !important;
+}
+
+.card-header {
+
+    height: 50px;
+    background-color: #F8F9FC;
+}
